@@ -7,7 +7,7 @@ public class Test {
 	public static <T> void main(String[] args) {
 		// TODO Auto-generated method stub
 		Demo.run();
-		
+		System.out.println("chen");
 	}
 
 }
